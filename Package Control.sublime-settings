@@ -1,0 +1,31 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"SideBarEnhancements",
+		"AlignTab",
+		"All Autocomplete",
+		"CoffeeScript",
+		"DocBlockr",
+		"EditorConfig",
+		"Gist",
+		"Git Config",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"Increment Selection",
+		"Issues",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Sass",
+		"sublime-github",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"ToggleQuotes",
+		"TrailingSpaces",
+		"Zephir"
+	]
+}
